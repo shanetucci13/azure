@@ -1,8 +1,8 @@
 {
-	"firstName": "Shane",
-	"lastName": "Tucci",
-	"preferredName": "Shane",
-	"teamName": "Back Row Bandicoots",
-	"seatLocation": "4-3",
-	"roles": ["Team Member"]
+	"FirstName": "Shane",
+	"LastName": "Tucci",
+	"PreferredName": "Shane",
+	"TeamName": "Back Row Bandicoots",
+	"SeatLocation": "4-3",
+	"Roles": ["Team Member"]
 }
